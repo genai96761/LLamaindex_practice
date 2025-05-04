@@ -1,0 +1,3 @@
+pip install llama-index-agent-openai
+pip install llama-index-readers-web
+pip install llama-index-tools-google
