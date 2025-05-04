@@ -6,5 +6,5 @@ pip install firecrawl-py
 pip install hyperbrowser
 pip install scrapfly-sdk
 pip install zyte-api
-
+pip install llama-index-embeddings-google-genai
 

@@ -1,0 +1,78 @@
+Here's a **comprehensive list of all the embedding models** mentioned in your input, categorized under **LlamaIndex and other contributors**:
+
+---
+
+
+
+1. AzureOpenAIEmbedding
+2. BedrockEmbedding
+3. AdapterEmbeddingModel
+4. LinearAdapterEmbeddingModel
+5. ClipEmbedding
+6. AzureAIEmbeddingsModel
+7. AnyscaleEmbedding
+8. GradientEmbedding
+9. AlibabaCloudAISearchEmbedding
+10. LlamafileEmbedding
+11. SageMakerEmbedding
+12. GoogleGenAIEmbedding
+13. OpenAIEmbedding
+14. GaudiEmbedding
+15. OPEAEmbedding
+16. OpenAILikeEmbedding
+17. TogetherEmbedding
+18. CohereEmbedding
+19. GeminiEmbedding
+20. MistralAIEmbedding
+21. PremAIEmbeddings
+22. IpexLLMEmbedding
+23. QuantizedBgeEmbedding
+24. FastEmbedEmbedding
+25. NetmindEmbedding
+26. ClarifaiEmbedding
+27. LLMRailsEmbedding
+28. NomicEmbedding
+29. HuggingFaceEmbedding
+30. HuggingFaceInferenceAPIEmbedding
+31. ElasticsearchEmbedding
+32. GigaChatEmbedding
+33. LangchainEmbedding
+34. VertexEndpointEmbedding
+35. OracleEmbeddings
+36. WatsonxEmbeddings
+37. FireworksEmbedding
+38. NebiusEmbedding
+39. UpstageEmbedding
+40. OptimumEmbedding
+41. VoyageEmbedding
+42. LiteLLMEmbedding
+43. VllmEmbedding
+44. OllamaEmbedding
+
+---
+
+### ✅ **Other Contributors**
+
+These are embedding models by individual contributors or companies:
+
+* **DashScopeEmbedding** – by `liuyhwangyh`
+* **DeepInfraEmbeddingModel** – by `deepinfra`
+* **AlephAlphaEmbedding** – by `ulan-yisaev`
+* **CloudflareEmbedding** – by `cxumol`
+* **TextEmbed** – by `kevaldekivadiya2415`
+* **GooglePaLMEmbedding** – by `llama-index`
+* **GoogleUnivSentEncoderEmbedding** – by `llama-index`
+* **ZhipuAIEmbedding** – by `nightosong`
+* **SiliconFlowEmbedding** – by `nightosong`
+* **VertexMultiModalEmbedding** – by `mustartt`
+* **VertexTextEmbedding** – by `mustartt`
+* **OCIGenAIEmbeddings** – by `raveharpaz`
+* **ModelScopeEmbedding** – by `modelscope`
+* **DatabricksEmbedding** – by `enrico-stauss`
+* **InstructorEmbedding** – by `llama-index`
+* **XinferenceEmbedding** – by `llama-index`
+* **YandexGPTEmbedding** – by `KirillKukharev`
+
+---
+
+Would you like a table summarizing these embeddings with provider, source, or download stats?
