@@ -8,3 +8,6 @@ pip install scrapfly-sdk
 pip install zyte-api
 pip install llama-index-embeddings-google-genai
 
+pip install llama-index llama-index-node-parser-topic
+
+
