@@ -1,0 +1,122 @@
+
+
+https://llamahub.ai/?tab=readers
+
+
+
+### 🌐 Web & URL Readers
+
+* `AgentQLWebReader`
+* `AsyncWebPageReader`
+* `BeautifulSoupWebReader`
+* `BrowserbaseWebReader`
+* `FireCrawlWebReader`
+* `HyperbrowserWebReader`
+* `MainContentExtractorReader`
+* `NewsArticleReader`
+* `ReadabilityWebPageReader`
+* `RssNewsReader`
+* `RssReader`
+* `ScrapflyReader`
+* `SimpleWebPageReader`
+* `SitemapReader`
+* `SpiderReader`
+* `TrafilaturaWebReader`
+* `UnstructuredURLLoader`
+* `WholeSiteReader`
+
+---
+
+### 📄 Document Readers
+
+* `SmartPDFLoader`
+* `PDFTableReader`
+* `PDFMarkerReader`
+* `RemoteDepthReader`
+* `RemoteReader`
+* `PreprocessReader`
+* `OpenAPIReader`
+* `ReadmeReader`
+* `UpstageDocumentReader`
+* `TxtaiReader`
+
+---
+
+### 🗃️ Structured Data Readers
+
+* `S3Reader`
+* `GCSReader` (Google Cloud Storage)
+* `OpendalReader`
+
+  * `OpendalS3Reader`
+  * `OpendalAzblobReader`
+  * `OpendalGcsReader`
+* `StripeDocsReader`
+* `SECFilingsLoader`
+* `WordpressReader`
+* `StackoverflowReader`
+* `WeatherReader`
+* `TrelloReader`
+* `PandasAIReader`
+* `OracleReader`
+* `OracleTextSplitter`
+
+---
+
+### 🎥 Video / Audio / Media Readers
+
+* `YoutubeTranscriptReader`
+* `WhisperReader`
+* `SpotifyReader`
+
+---
+
+### 💬 Messaging & Chat Readers
+
+* `SlackReader`
+* `TelegramReader`
+* `WhatsappChatLoader`
+* `ZulipReader`
+
+---
+
+### 🔍 Search / Knowledge Base Readers
+
+* `KnowledgeBaseWebReader`
+* `WikipediaReader`
+* `SemanticScholarReader`
+* `PubmedReader`
+* `ArxivReader`
+* `OpenAlexReader`
+* `UniProtReader`
+* `PatentsviewReader`
+
+---
+
+### 💾 Vector DB & Embedding Readers
+
+* `QdrantReader`
+* `WeaviateReader`
+* `ZepReader`
+* `PsychicReader`
+
+---
+
+### 📊 Platform-Specific Readers
+
+* `AirbyteCDKReader`
+* `AirbyteShopifyReader`
+* `AirbyteHubspotReader`
+* `AirbyteTypeformReader`
+* `SingleStoreReader`
+* `SnowflakeReader`
+* `PathwayReader`
+* `RayyanReader`
+* `PebbloReader`
+* `DashScopeAgent`
+* `TogglReader`
+* `RedditReader`
+
+---
+
+Would you like this list categorized in a table or JSON format as well?
