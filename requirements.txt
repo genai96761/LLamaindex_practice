@@ -2,3 +2,6 @@ pip install llama-index-agent-openai
 pip install llama-index-readers-web
 pip install llama-index-tools-google
 pip install llama-index-llms-google-genai llama-index
+pip install firecrawl-py
+pip install hyperbrowser
+pip install scrapfly-sdk
