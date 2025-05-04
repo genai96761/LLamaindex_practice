@@ -24,6 +24,8 @@ https://llamahub.ai/?tab=readers
 * `TrafilaturaWebReader`
 * `UnstructuredURLLoader`
 * `WholeSiteReader`
+WikipediaReader
+
 
 ---
 
@@ -116,6 +118,69 @@ https://llamahub.ai/?tab=readers
 * `DashScopeAgent`
 * `TogglReader`
 * `RedditReader`
+
+Apifyactor
+Apifydataset
+twittertweetreader
+RemoteReader
+zendeskreader 
+ArxivReader 
+PubmedReader
+meosreader
+Airbytestripereader
+GCSReader
+Llamaparse
+Boxreadertextextraction
+BoxreaderAiprompt
+BoxreaderAiextract
+Boxreader
+Hatenablogreader 
+Onedrivereader
+Airbytezendesksupportreader
+athenareader 
+dashscopeparse 
+faissreader
+Boarddocsreader 
+Elasticsearchreader 
+openmap 
+HWPreader 
+AirbyteGongreader
+Databasereader 
+Huggungfacefsreader 
+earningscalltranscript
+Docugamireader 
+jirareader
+Gitlabrepositoryreader 
+Gitlabissuereader 
+simplemongoreader
+graphDBcypherreader
+XMLreader 
+videoaudioreader 
+unstructuredreader
+RTFreader 
+pymupdfreader
+ pptxreader
+ pandasexcelreader 
+
+padascsvreader
+pdfreader 
+mboxreader 
+markdownreader 
+imagevisionLLMreader 
+ImageTabularchartreader 
+imagereader 
+Imagecaptionreader 
+IPYNBreader
+HTMLtagreader 
+Flatreader
+Epureader 
+Docxreader 
+CSVreader 
+Lilacreader 
+Joplinreader 
+Hivereader 
+
+
 
 ---
 
